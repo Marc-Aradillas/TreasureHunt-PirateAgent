@@ -58,7 +58,7 @@ Even in a game context, these ethical principles remind us to be mindful of user
 ## How to Run
 
 1. *Clone the Repository*
-```bash
+
 git clone https://github.com/YourUsername/Pirate-Intelligent-Agent.git
 
 2. Open the Notebook
