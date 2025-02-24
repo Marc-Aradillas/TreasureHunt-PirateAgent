@@ -1,9 +1,5 @@
 # CS 370: Pirate Intelligent Agent
 
-This repository contains the Jupyter Notebook (`TreasureHuntGame.ipynb`) for the Pirate Intelligent Agent project. The notebook demonstrates how I applied **reinforcement learning** and **neural networks** to solve a pathfinding problem, training a pirate NPC to find treasure before a human player can.
-
----
-
 ## Project Overview
 
 ### What Code Was Provided
@@ -25,7 +21,6 @@ I completed the `qtrain` function in the notebook, which includes:
 
 By combining the starter files with my own Q-learning logic, I created a functional pirate agent capable of navigating the maze and reliably finding the treasure.
 
----
 
 ## Connecting Learning to Computer Science
 
